@@ -1,0 +1,13 @@
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\obj\Debug\netcoreapp3.1\ProductandLcm.csprojAssemblyReference.cache
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\obj\Debug\netcoreapp3.1\ProductandLcm.AssemblyInfoInputs.cache
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\obj\Debug\netcoreapp3.1\ProductandLcm.AssemblyInfo.cs
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\obj\Debug\netcoreapp3.1\ProductandLcm.csproj.CoreCompileInputs.cache
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\bin\Debug\netcoreapp3.1\ProductandLcm.exe
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\bin\Debug\netcoreapp3.1\ProductandLcm.deps.json
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\bin\Debug\netcoreapp3.1\ProductandLcm.runtimeconfig.json
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\bin\Debug\netcoreapp3.1\ProductandLcm.runtimeconfig.dev.json
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\bin\Debug\netcoreapp3.1\ProductandLcm.dll
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\bin\Debug\netcoreapp3.1\ProductandLcm.pdb
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\obj\Debug\netcoreapp3.1\ProductandLcm.dll
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\obj\Debug\netcoreapp3.1\ProductandLcm.pdb
+C:\work\kataproblems\kata2\ProductandLcm\ProductandLcm\obj\Debug\netcoreapp3.1\ProductandLcm.genruntimeconfig.cache
