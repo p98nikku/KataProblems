@@ -6,7 +6,8 @@ namespace ConsecutiveSum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
+            FunctionLogic.EntryLogic();
         }
     }
 }

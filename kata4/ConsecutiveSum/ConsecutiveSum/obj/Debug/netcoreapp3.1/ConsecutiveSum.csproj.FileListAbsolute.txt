@@ -1,0 +1,12 @@
+C:\work\kataproblems\kata4\ConsecutiveSum\ConsecutiveSum\bin\Debug\netcoreapp3.1\ConsecutiveSum.exe
+C:\work\kataproblems\kata4\ConsecutiveSum\ConsecutiveSum\bin\Debug\netcoreapp3.1\ConsecutiveSum.deps.json
+C:\work\kataproblems\kata4\ConsecutiveSum\ConsecutiveSum\bin\Debug\netcoreapp3.1\ConsecutiveSum.runtimeconfig.json
+C:\work\kataproblems\kata4\ConsecutiveSum\ConsecutiveSum\bin\Debug\netcoreapp3.1\ConsecutiveSum.runtimeconfig.dev.json
+C:\work\kataproblems\kata4\ConsecutiveSum\ConsecutiveSum\bin\Debug\netcoreapp3.1\ConsecutiveSum.dll
+C:\work\kataproblems\kata4\ConsecutiveSum\ConsecutiveSum\bin\Debug\netcoreapp3.1\ConsecutiveSum.pdb
+C:\work\kataproblems\kata4\ConsecutiveSum\ConsecutiveSum\obj\Debug\netcoreapp3.1\ConsecutiveSum.AssemblyInfoInputs.cache
+C:\work\kataproblems\kata4\ConsecutiveSum\ConsecutiveSum\obj\Debug\netcoreapp3.1\ConsecutiveSum.AssemblyInfo.cs
+C:\work\kataproblems\kata4\ConsecutiveSum\ConsecutiveSum\obj\Debug\netcoreapp3.1\ConsecutiveSum.csproj.CoreCompileInputs.cache
+C:\work\kataproblems\kata4\ConsecutiveSum\ConsecutiveSum\obj\Debug\netcoreapp3.1\ConsecutiveSum.dll
+C:\work\kataproblems\kata4\ConsecutiveSum\ConsecutiveSum\obj\Debug\netcoreapp3.1\ConsecutiveSum.pdb
+C:\work\kataproblems\kata4\ConsecutiveSum\ConsecutiveSum\obj\Debug\netcoreapp3.1\ConsecutiveSum.genruntimeconfig.cache
