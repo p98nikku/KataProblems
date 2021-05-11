@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace DeleteOccurances
@@ -9,17 +10,28 @@ namespace DeleteOccurances
         public static void EntryLogic()
         {
             int[] array = DeleteNth(new int[] { 20, 37, 20, 21 }, 1);
-            int[] array2 = new int[4];
+            Console.WriteLine("Enter the length of array:");
+            int length=Convert.ToInt32(Console.ReadLine());
+            DeleteNth(array, length);
             Console.WriteLine("Output: ");
             for (int i = 0; i < array.Length; i++)
             {
                 Console.WriteLine(array[i]);
             }
+            
         }
         public static int[] DeleteNth(int[] arr, int x)
         {
-            List<int> temporaryArray = new List<int>();
-            return Result;
+            List<int> result = new List<int>();
+            foreach (int number in arr)
+            {
+                if (result.Where(c => c == number).Count() < x)
+                {
+                    result.Add(number);
+                }
+            }
+            return result.ToArray();
         }
     }
-}
+    }
+

@@ -1,0 +1,13 @@
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\obj\Debug\netcoreapp3.1\DeleteOccurances.csprojAssemblyReference.cache
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\obj\Debug\netcoreapp3.1\DeleteOccurances.AssemblyInfoInputs.cache
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\obj\Debug\netcoreapp3.1\DeleteOccurances.AssemblyInfo.cs
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\obj\Debug\netcoreapp3.1\DeleteOccurances.csproj.CoreCompileInputs.cache
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\bin\Debug\netcoreapp3.1\DeleteOccurances.exe
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\bin\Debug\netcoreapp3.1\DeleteOccurances.deps.json
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\bin\Debug\netcoreapp3.1\DeleteOccurances.runtimeconfig.json
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\bin\Debug\netcoreapp3.1\DeleteOccurances.runtimeconfig.dev.json
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\bin\Debug\netcoreapp3.1\DeleteOccurances.dll
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\bin\Debug\netcoreapp3.1\DeleteOccurances.pdb
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\obj\Debug\netcoreapp3.1\DeleteOccurances.dll
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\obj\Debug\netcoreapp3.1\DeleteOccurances.pdb
+C:\work\kataproblems\kata3\DeleteOccurances\DeleteOccurances\obj\Debug\netcoreapp3.1\DeleteOccurances.genruntimeconfig.cache
