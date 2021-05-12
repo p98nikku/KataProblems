@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProductCatalogNew": {
+      "commandName": "Project",
+      "commandLineArgs": "--file C:\\Users\\S S INFOTECH\\source\\repos\\ProductCatalogNew\\productdata.txt"
+    }
+  }
+}

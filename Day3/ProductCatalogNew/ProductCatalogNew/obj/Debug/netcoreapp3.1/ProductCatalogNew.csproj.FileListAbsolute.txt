@@ -1,0 +1,17 @@
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogNew.exe
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogNew.deps.json
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogNew.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogNew.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogNew.dll
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogNew.pdb
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogData.dll
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\ProductCatalogData.pdb
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.csproj.CopyComplete
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.dll
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.pdb
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\obj\Debug\netcoreapp3.1\ProductCatalogNew.genruntimeconfig.cache
+C:\Users\S S INFOTECH\source\repos\ProductCatalogNew\ProductCatalogNew\bin\Debug\netcoreapp3.1\CsvHelper.dll

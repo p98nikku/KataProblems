@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DIF8DOh5VZlGfkQm6cox6BVLf45GNIfW7d07TQpviQHJPVFXMp6g37EU6tMnhlpCdQ8WxdgOpLfr4fpj64nkOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\S S INFOTECH\\source\\repos\\ProductCatalogNew\\ProductCatalogNew\\ProductCatalogNew.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\S S INFOTECH\\.nuget\\packages\\csvhelper\\27.0.2\\csvhelper.27.0.2.nupkg.sha512",
+    "C:\\Users\\S S INFOTECH\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
