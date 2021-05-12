@@ -44,7 +44,7 @@ namespace ConsecutiveSum
                     }
                     else
                     {
-                        break;
+                        break;   
                     }
                 }
                 ModifiedList.Add(UpdatedValue);
